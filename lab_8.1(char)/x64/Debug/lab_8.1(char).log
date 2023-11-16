@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Lenovo\Desktop\лаби\АП\lab_8.1(char)\lab_8.1(char)\Source.cpp(12,21): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Lenovo\Desktop\лаби\АП\lab_8.1(char)\lab_8.1(char)\Source.cpp(28,22): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  lab_8.1(char).vcxproj -> C:\Users\Lenovo\Desktop\лаби\АП\lab_8.1(char)\x64\Debug\lab_8.1(char).exe
